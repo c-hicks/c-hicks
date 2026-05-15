@@ -1,6 +1,6 @@
 ### Charles Hicks
 
-Sysadmin and Software & Web Developer based in Sydney. I design (Figma, Affinity, Inkscape, Adobe, etc), build client web sites (Next.js, React, vanilla JS), and self-hosted infrastructure tools (Golang, Python, Bash, etc).
+Sysadmin & Software, designer (Figma, Affinity, Inkscape, Adobe, etc), developer (Next.js, React, vanilla JS), and coder (Golang, Python, Bash, C++, etc).
 
 #### Open Source
 
