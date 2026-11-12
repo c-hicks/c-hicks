@@ -1,6 +1,6 @@
 ### Charles Hicks
 
-Sysadmin & Software, Designer (Figma, Affinity, Inkscape, Adobe, etc), Developer (Next.js, React, vanilla JS), & Coder (Golang, Python, Bash, C++, etc).
+Sysadmin & Software, Designer (Figma, Affinity, Inkscape, Adobe, etc), Developer (Next.js, React, vanilla JS), & Coder (Golang, Python, C++, etc).
 
 #### Open Source
 
