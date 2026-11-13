@@ -4,7 +4,7 @@ Designer (Figma, Affinity, Inkscape, Adobe, etc), Developer (Next.js, React, van
 
 #### Web Development
 
-Brushtail Media **[brushtailmedia.com.au](https://brushtailmedia.com.au)**
+**[Brushtail Media Pty Ltd](https://brushtailmedia.com.au)**
 
 #### Open Source
 
