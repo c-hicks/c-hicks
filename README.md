@@ -2,7 +2,7 @@
 
 Designer (Figma, Affinity, Inkscape, Adobe, etc), Developer (Next.js, React, vanilla JS), Coder (Golang, Python, C++, etc), & DevOps/Sysadmin.
 
-#### Website
+#### Public Website
 
 **[Brushtail Media](https://brushtailmedia.com.au)**
 
